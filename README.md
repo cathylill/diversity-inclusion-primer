@@ -21,6 +21,7 @@ Some general culture stuff…
 - Don’t equate traditionally masculine traits with higher intelligence or work quality.
 - Don’t value masculine traits more than feminine traits.
 - Don’t assign higher value to white dress / hair styles or predominantly white experiences.
+- If you need ongoing advice please consider hiring a diversity consultant.
 
 Some links…
 - https://open.buffer.com/inclusive-language-tech/
