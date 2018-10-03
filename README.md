@@ -1,5 +1,5 @@
 # Diversity and Inclusion Primer
-Some practical tips for inclusive writing, job descriptions and community prganising. PR's and comments especially from folks with diverse perspectives welcome!
+Some practical tips for inclusive writing, job descriptions and community organising. PR's and comments especially from folks with diverse perspectives welcome!
 
 *In most cases it’s best to not make a big deal of someone’s identity, don’t reduce people to tokens*
 - Promote people’s awesome work not their physical characteristics or identity.
