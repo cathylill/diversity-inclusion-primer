@@ -30,3 +30,4 @@ Some links…
 - http://www.abc.net.au/news/2016-06-01/words-you-should-avoid-using-about-women-in-the-workplace/7467848
 - https://www.theatlantic.com/family/archive/2018/08/guys-gender-neutral/568231/
 - https://www.commonground.org.au/learn/aboriginal-or-indigenous
+- https://www.and.org.au/pages/inclusive-language.html
